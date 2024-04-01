@@ -28,6 +28,8 @@ Dados sempre foi meu foco, é incrível todo o processo desde da extração de d
 # Veja alguns projetos Desenvolvidos por mim:
 * **Análise de dados:**
   * [Análise dos dados do Airbnb de Barcelona](https://github.com/RafaelAndradeDEV/Airbnb_Barcelona)
+* **Engenharia de dados**
+  * [ETL_Python_DuckDB](https://github.com/RafaelAndradeDEV/ETL_Python_DuckDB)
 * **WebScraping:**
   * [Webcraping e análise dos dados](https://github.com/RafaelAndradeDEV/WebScraping_and_Analysis)
 * **Automação:**
