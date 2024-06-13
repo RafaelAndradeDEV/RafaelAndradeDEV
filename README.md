@@ -17,12 +17,12 @@
 
 Sou uma pessoa que sempre procura resolver problemas, buscando através de um pensamento análitico/criativo e métodos, destrinchar o problema em pequenos pedaços, para assim, resolver mais facilmente.
 
-Tenho habilidade em Programação, minha linguagem principal é Python. Tenho experiência também com Excel e Power BI para Criação de Dashboards e EDA.
+Tenho habilidades em Programação, minha linguagem principal é Python. Experiência em Excel e Power BI para Criação de Dashboards e EDA.
 
-Dados sempre foi meu foco, é incrível todo o processo desde da extração de dados brutos, tratamento e limpeza dos dados, modelagem correta, até a parte de montar gráficos e estruturar relatórios, extraindo insights e comunicando através de storytelling.
+Dados sempre foi meu foco, acho incrível todo o processo desde da extração de dados brutos, tratamento e limpeza dos dados, modelagem correta, até a montagem de gráficos e estruturar relatórios, extraindo insights e comunicando através de storytelling.
 
 * 👨‍💻 Gosto de Resolver problemas, sempre buscando a melhor solução, sou bom em lógico e gosto de desafios.
-* 👨‍💻 Ferramentas em progresso: Python, SQL, Excel, Power BI.
+* 👨‍💻 Ferramentas em progresso: Python, SQL, Airflow, Excel, Power BI.
 * 💼 Experiência: Em busca da Primeira oportunidade.
 
 # Veja alguns projetos Desenvolvidos por mim:
