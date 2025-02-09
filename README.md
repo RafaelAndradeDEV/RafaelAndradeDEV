@@ -1,8 +1,8 @@
-## Me encontre em outras redes
+## Find me on other platforms
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Rafael_Andrade_DEV)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-andradedev/)
 
-## Tecnologias que domino ou estou aprendendo
+## Technologies I master or am learning
 <div style ="display: inline_block">
 <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 <img align="center" alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
@@ -16,25 +16,25 @@
           
 </div>
 
-# **Sobre mim:**
+# **About Me:**
 
-Sou uma pessoa que sempre procura resolver problemas, buscando através do pensamento análitico/criativo e métodos de resolução, destrinchando o problema em pequenos pedaços, para assim, resolver mais facilmente.
+I am someone who always seeks to solve problems by using analytical/creative thinking and resolution methods, breaking down the problem into smaller pieces to make it easier to solve.
 
-Tenho habilidades em Programação, minha linguagem principal é Python. Experiência em Excel e Power BI para Criação de Dashboards e EDA. Desenvolvimento de pipelines, utilizando Airflow para Orchestração e Conteinerização com Docker
+I have skills in programming, with Python as my main language. Experience in Python and SQL for ETL. Development of pipelines using Airflow for Orchestration and Containerization with Docker.
 
-Dados sempre foi meu foco, acho incrível todo o processo desde da extração de dados brutos, tratamento e limpeza dos dados, modelagem correta, até a montagem de gráficos e estruturar relatórios, extraindo insights e comunicando através de storytelling.
+Data has always been my focus—I find the whole process fascinating, from extracting raw data, cleaning and transforming it, properly modeling it, to building charts and structuring reports, extracting insights, and communicating through storytelling.
 
-* 👨‍💻 Gosto de Resolver problemas, sempre buscando a melhor solução, sou bom em lógico e gosto de desafios.
-* 👨‍💻 Ferramentas em progresso: Python, SQL, Airflow, Excel, Power BI.
-* 💼 Experiência: Em busca da Primeira oportunidade.
+* 👨‍💻 I enjoy solving problems, always looking for the best solution. I am good at logic and love challenges.
+* 👨‍💻 Tools in progress: Python, SQL, Airflow, Snowflake, Docker, AWS.
+* 💼 Experience: +2 years in data field.
 
 # Veja alguns projetos Desenvolvidos por mim:
-* **Análise de dados:**
-  * [Análise dos dados do Airbnb de Barcelona](https://github.com/RafaelAndradeDEV/Airbnb_Barcelona)
-* **Engenharia de dados**
+* **Data Analysis:**
+  * [Analysis of Airbnb Data in Barcelona](https://github.com/RafaelAndradeDEV/Airbnb_Barcelona)
+* **Data Engineering**
   * [ETL_Python_DuckDB](https://github.com/RafaelAndradeDEV/ETL_Python_DuckDB)
   * [Indicium_Tech_Code_Challenge](https://github.com/RafaelAndradeDEV/Indicium_Tech_Code_Challenge)
-* **WebScraping:**
-  * [Webcraping e análise dos dados](https://github.com/RafaelAndradeDEV/WebScraping_and_Analysis)
-* **Automação:**
-  * [Organizador de arquivos por extensão](https://github.com/RafaelAndradeDEV/Files_Organizer)
+* **Web Scraping:**
+  * [Web Scraping and Data Analysis](https://github.com/RafaelAndradeDEV/WebScraping_and_Analysis)
+* **Automation:**
+  * [File Organizer by Extension](https://github.com/RafaelAndradeDEV/Files_Organizer)
