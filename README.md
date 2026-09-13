@@ -1,40 +1,71 @@
-## Find me on other platforms
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Rafael_Andrade_DEV)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-andradedev/)
+# Building reliable data platforms and pipelines
 
-## Technologies I master or am learning
-<div style ="display: inline_block">
-<img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-<img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=sql&logoColor=white">
-<img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-<img align="center" alt="Snowflake" src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white">
-<img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-<img align="center" height=30 width=40 alt="Airflow" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" />
-<img align="center" height=40 width=40 alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-                    
-      
-          
-</div>
+Data Engineer with 3+ years across data engineering and analytics, working with Python, Apache Airflow, Databricks, Snowflake, dbt, Spark and SQL. Focused on **Lakehouse platforms**, **ETL/ELT**, **platform automation and governance**.
 
-# **About Me:**
+Most of my work sits where data engineering meets platform engineering — Terraform for Databricks and Snowflake, Airflow for orchestration, and automation that removes manual, error-prone steps.
 
-I am someone who always seeks to solve problems by using analytical/creative thinking and resolution methods, breaking down the problem into smaller pieces to make it easier to solve.
+---
 
-I have skills in programming, with Python as my main language. Experience in Python and SQL for ETL. Development of pipelines using Airflow for Orchestration and Containerization with Docker.
+## Impact
 
-Data has always been my focus—I find the whole process fascinating, from extracting raw data, cleaning and transforming it, properly modeling it, to building charts and structuring reports, extracting insights, and communicating through storytelling.
+| Cost | Latency | Reliability |
+|------|---------|-------------|
+| **$11,088/year** saved | **94%** faster syncs | **55%** fewer incidents |
+| Automated revocation of unused BI licenses | Reverse ETL cut from 180s to 10s per view | Quarter-over-quarter drop in production incidents after adding validation logic |
 
-* 👨‍💻 I enjoy solving problems, always looking for the best solution. I am good at logic and love challenges.
-* 👨‍💻 Tools in progress: Python, SQL, Airflow, Snowflake, Docker, AWS.
-* 💼 Experience: +2 years in the data field.
+---
 
-# Check out some projects I've developed:
-* **Data Analysis:**
-  * [Analysis of Airbnb Data in Barcelona](https://github.com/RafaelAndradeDEV/Airbnb_Barcelona)
-* **Data Engineering**
-  * [ETL_Python_DuckDB](https://github.com/RafaelAndradeDEV/ETL_Python_DuckDB)
-  * [Indicium_Tech_Code_Challenge](https://github.com/RafaelAndradeDEV/Indicium_Tech_Code_Challenge)
-* **Web Scraping:**
-  * [Web Scraping and Data Analysis](https://github.com/RafaelAndradeDEV/WebScraping_and_Analysis)
-* **Automation:**
-  * [File Organizer by Extension](https://github.com/RafaelAndradeDEV/Files_Organizer)
+## Selected engineering work
+
+### 1. Databricks on AWS — Lakehouse Platform as Code
+
+Terraform that builds a complete, governed Databricks Lakehouse from an empty AWS account: VPC with private subnets and endpoints, least-privilege IAM, Unity Catalog metastore, catalogs and schemas, compute, permissions and budgets. Users, groups and grants are driven by three YAML files and shipped through a pull-request workflow.
+
+**Stack:** Terraform · Databricks · Unity Catalog · AWS (VPC, IAM, S3) · GitHub Actions · OIDC
+
+<!-- Add your other repositories below, following the same shape.
+     Suggestions based on your experience — replace with real repos and links:
+
+### 2. Automated access revocation for Snowflake
+Time-bound role assignments with automatic expiry, built with Terraform and Airflow to keep access grants aligned with ISO security requirements.
+**Stack:** Snowflake · Terraform · Airflow · Python
+
+### 3. Databricks Asset Bundles templates
+Standardized project templates and declarative pipelines adopted across multiple client projects.
+**Stack:** Databricks · Asset Bundles · Python · CI/CD
+-->
+
+---
+
+## Certifications
+
+- AWS Partner: Technical Accredited
+- Astronomer Certification: DAG Authoring for Apache Airflow
+- Databricks Academy Accreditation: Lakehouse Fundamentals
+- dbt Fundamentals
+- Business Intelligence Foundation — CertiProf International
+- EF SET English Certificate — 65/100 (C1 Advanced)
+
+---
+
+## Core stack
+
+- **Processing:** Spark, PySpark, SQL, dbt
+- **Platforms:** Databricks, Snowflake, AWS, Azure
+- **Orchestration:** Apache Airflow, Meltano
+- **Engineering:** Python, Java, Terraform, Docker, Kubernetes, Git, CI/CD
+- **Practices:** Data modeling, access governance, REST API integrations, data quality and validation
+
+---
+
+## Background
+
+Computer Science graduation. Before moving into data engineering full time, I spent a year in applied research building convolutional neural networks to read digits from gas-meter images, reaching **98.7% precision** on the CEGAS-AMR dataset — where I learned to treat evaluation metrics and reproducibility as part of the engineering work, not an afterthought.
+
+---
+
+## Let's connect
+
+Open to remote Data Engineering opportunities, in Brazil and internationally.
+
+[LinkedIn](https://www.linkedin.com/in/rafael-andradedev/) · [Email](mailto:rafaelandradeoli05@gmail.com) · [GitHub](https://github.com/RafaelAndradeDEV)
