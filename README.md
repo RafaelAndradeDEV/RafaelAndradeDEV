@@ -17,11 +17,19 @@ Most of my work sits where data engineering meets platform engineering — Terra
 
 ## Selected engineering work
 
-### 1. Databricks on AWS — Lakehouse Platform as Code
+### 1. [Databricks on AWS — Lakehouse Platform as Code](https://github.com/RafaelAndradeDEV/dbk_infra_aws)
 
 Terraform that builds a complete, governed Databricks Lakehouse from an empty AWS account: VPC with private subnets and endpoints, least-privilege IAM, Unity Catalog metastore, catalogs and schemas, compute, permissions and budgets. Users, groups and grants are driven by three YAML files and shipped through a pull-request workflow.
 
 **Stack:** Terraform · Databricks · Unity Catalog · AWS (VPC, IAM, S3) · GitHub Actions · OIDC
+
+### 2. [Northwind ELT Pipeline](https://github.com/RafaelAndradeDEV/Indicium_Tech_Code_Challenge)
+
+A daily ELT pipeline that extracts from two sources — a PostgreSQL (Northwind) database and a CSV of order details on S3 — writes them to local disk partitioned by source, table and execution date, then loads everything into a destination PostgreSQL database.
+
+Each stage runs independently and can be re-executed for any past date without touching the others, so a failed load never forces a re-extract. The whole environment comes up with Docker Compose, including LocalStack to emulate S3.
+
+**Stack:** Airflow · Meltano · PostgreSQL · Docker Compose · LocalStack (S3) · Python · Poetry
 
 <!-- Add your other repositories below, following the same shape.
      Suggestions based on your experience — replace with real repos and links:
